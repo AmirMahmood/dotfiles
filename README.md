@@ -8,6 +8,7 @@ A collection of my personal dotfiles
 * [NVim][4]
 
 ## Useful Apps
+* tmux
 * exa
 * zoxide
 * bat (batcat)
