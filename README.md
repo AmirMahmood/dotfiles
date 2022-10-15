@@ -25,6 +25,7 @@ A collection of my personal dotfiles
 ### Git
 * Install [git-credential-manager][4] and choose your [credential stores][5]
 * set `user.name` nad `user.email` configs
+* set `pull.ff` config true and `pull.rebase` false
 
 ### NeoVim
 * Follow [this page][6] for Neovim installation.
