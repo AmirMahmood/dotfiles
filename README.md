@@ -9,6 +9,7 @@ A collection of my personal dotfiles
 
 ## Apps
 * git
+* vscode
 * tmux
 * tilix
 * exa
