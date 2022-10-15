@@ -6,6 +6,9 @@ set -e
 
 if [[ $1 == 'backup' ]]; then
   dconf dump '/com/gexperts/Tilix/' > tilix-settings.dconf
+  cp ~/.tmux.conf ./
+  cp -r ~/.config/nvim/ ./
+  rm -rf ./nvim/plugin/
   echo "backup done"
   exit 0
 fi
