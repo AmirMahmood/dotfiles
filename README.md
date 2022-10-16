@@ -9,9 +9,10 @@ A collection of my personal dotfiles
 
 ## Apps
 * git
-* vscode
 * tmux
 * tilix
+* zsh
+* starship
 * exa
 * zoxide
 * bat (batcat)
@@ -33,8 +34,10 @@ A collection of my personal dotfiles
 * Then install [packer.nvim][7] plugin manager.
 
 ### ZSH
+* Download a [nerdfont][10] & [install locally or system-wide][11]
 * Install [zsh][8] and [ohmyzsh][9]
 * Change default shell: `chsh -s $(which zsh)`
+* install [starship]
 
 
 [1]: https://gist.github.com/AmirMahmood/7afb4de1b618a2e4aa28b2a998f639e2
@@ -46,3 +49,5 @@ A collection of my personal dotfiles
 [7]: https://github.com/wbthomason/packer.nvim
 [8]: https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
 [9]: https://ohmyz.sh/#install
+[10]: https://www.nerdfonts.com/font-downloads
+[11]: https://ostechnix.com/install-nerd-fonts-to-add-glyphs-in-your-code-on-linux/
