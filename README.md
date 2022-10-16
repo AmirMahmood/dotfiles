@@ -32,6 +32,10 @@ A collection of my personal dotfiles
 * Follow [this page][6] for Neovim installation.
 * Then install [packer.nvim][7] plugin manager.
 
+### ZSH
+* Install [zsh][8] and [ohmyzsh][9]
+* Change default shell: `chsh -s $(which zsh)`
+
 
 [1]: https://gist.github.com/AmirMahmood/7afb4de1b618a2e4aa28b2a998f639e2
 [2]: https://gist.github.com/AmirMahmood/153bef81f03e6fe1ca7d79b1dd1b8272
@@ -40,3 +44,5 @@ A collection of my personal dotfiles
 [5]: https://github.com/GitCredentialManager/git-credential-manager/blob/main/docs/credstores.md
 [6]: https://github.com/neovim/neovim/wiki/Installing-Neovim#ubuntu
 [7]: https://github.com/wbthomason/packer.nvim
+[8]: https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
+[9]: https://ohmyz.sh/#install
