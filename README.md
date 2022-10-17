@@ -41,6 +41,7 @@ A collection of my personal dotfiles
 
 ### Tmux
 * Install [TMP][12]
+* Use `<prefix> + I` to install plugins
 
 [1]: https://gist.github.com/AmirMahmood/7afb4de1b618a2e4aa28b2a998f639e2
 [2]: https://gist.github.com/AmirMahmood/153bef81f03e6fe1ca7d79b1dd1b8272
