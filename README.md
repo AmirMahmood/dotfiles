@@ -35,13 +35,14 @@ A collection of my personal dotfiles
 
 ### ZSH
 * Download a [nerdfont][10] & [install locally or system-wide][11]
-* Install [zsh][8] and [ohmyzsh][9]
+* Install [zsh][8] and [ohmyzsh][9] and [Antidote][14]
 * Change default shell: `chsh -s $(which zsh)`
 * install [starship][13]
 
 ### Tmux
 * Install [TMP][12]
 * Use `<prefix> + I` to install plugins
+
 
 [1]: https://gist.github.com/AmirMahmood/7afb4de1b618a2e4aa28b2a998f639e2
 [2]: https://gist.github.com/AmirMahmood/153bef81f03e6fe1ca7d79b1dd1b8272
@@ -56,3 +57,4 @@ A collection of my personal dotfiles
 [11]: https://ostechnix.com/install-nerd-fonts-to-add-glyphs-in-your-code-on-linux/
 [12]: https://github.com/tmux-plugins/tpm
 [13]: https://starship.rs/guide/#%F0%9F%9A%80-installation
+[14]: https://getantidote.github.io/
